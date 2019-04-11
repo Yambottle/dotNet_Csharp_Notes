@@ -14,5 +14,5 @@ CLI: Common Language Infrastructure
 * **CLS:** Common Language Specification: specification for .Net languages
 * **CIL:** Common Intermediate Language: code->human-readable(CIL)->bytecode
 
-## 4. .Net Core
+### 4. .Net Core
 * Provides compatibility on varies of platforms
