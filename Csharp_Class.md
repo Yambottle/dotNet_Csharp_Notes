@@ -10,7 +10,8 @@
 ### 3. Constant Field
 * const int defaultCapacity = 4;
 
-### 4. Attribute
+### 4. Property
+* a wrapped variable field(sometimes)
 * simplify getter and setter
 
 ### 5. Indexer
