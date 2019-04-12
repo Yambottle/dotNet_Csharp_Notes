@@ -38,3 +38,8 @@
     * Using virtual, then it's inherited and can be overide with "overide"
     * Or without virtual, using "new" to hide base class method
 
+### 8. Struct
+* Light-weighted class, memory-friendly(compared to class in some uses such as Point, Shape)
+* Can only implement interface, but there would be boxing and unboxing
+* Must init fields before calling constructor
+
