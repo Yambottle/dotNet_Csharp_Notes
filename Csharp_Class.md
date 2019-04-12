@@ -1,4 +1,4 @@
-# C# Class
+# C# Class&OOP
 
 ### 1. Accessibility&Encapsulation(封装)
 * internal: within program
