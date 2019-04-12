@@ -4,8 +4,8 @@
 * internal: within program
 * protected internal: within program and containing class
 
-### 2. Base Class Inheritence
-* public class Point3D: Point
+### 2. Base Class & Interface
+* public class Point3D: Point, I1, I2, I3
 
 ### 3. Constant Field
 * const int defaultCapacity = 4;
