@@ -16,7 +16,7 @@
 ### 5. Indexer
 * getter and setter for array
 
-### 6. Operator Overloading
+### 6. Operator
 ```sh
    public static bool operator ==(List a, List b) {
 
