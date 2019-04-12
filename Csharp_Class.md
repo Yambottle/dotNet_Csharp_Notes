@@ -40,6 +40,6 @@
 
 ### 8. Struct
 * Light-weighted class, memory-friendly(compared to class in some uses such as Point, Shape)
-* Can only implement interface, but there would be boxing and unboxing
+* Can only implement interface, but there would be boxing and unboxing because it was stored within stack
 * Must init fields before calling constructor
 
