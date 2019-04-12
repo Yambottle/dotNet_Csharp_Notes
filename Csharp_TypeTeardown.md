@@ -35,8 +35,8 @@
 * User-defined converter: IConvertible, TypeConverter
 
 ### 5. Function Parameter Type Defination
-* out: simplify return, init within function
-* ref: simplify parameter passing(Bye *), init before function call, using ref at function defination and function call
+* out: simplify return, init within function, using ref at function defination and function call
+* ref: simplify parameter passing(Bye *), init before function call, using ref before and at function defination and function call
 
 ### 6. dynamic Type
 * throw Runtime Error but Compiled Error
