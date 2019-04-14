@@ -75,9 +75,9 @@
     * ArraySegment<T>: window reference
  
 ### 10. Enum
-    * default tpye: int, or use ":" define
-    * default first element = 0, and increasement = 1
-    * Enum.Parse(): int 1 == doulb 1? or string false == bool false?
+* default tpye: int, or use ":" define
+* default first element = 0, and increasement = 1
+* Enum.Parse(): int 1 == doulb 1? or string false == bool false?
     
 ### 11. Indexer: mark here, talk about it until in Class section
 
