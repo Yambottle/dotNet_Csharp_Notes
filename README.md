@@ -7,3 +7,4 @@
 3. [C# Class&OOP](/Csharp_Class.md)
 4. [C# Interface](/Csharp_Interface.md)
 5. [C# Generics&Collections](/Csharp_Generics_Collections.md)
+6. [C# Serialization](/Csharp_Serialization.md)
