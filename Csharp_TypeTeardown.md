@@ -73,11 +73,13 @@
     * Sort(): IComparable
     * Covariant&Contravariant: Base Class<=>Derived Class
     * ArraySegment<T>: window reference
-* Enum
+ 
+### 10. Enum
     * default tpye: int, or use ":" define
     * default first element = 0, and increasement = 1
     * Enum.Parse(): int 1 == doulb 1? or string false == bool false?
-* Indexer: mark here, talk about it until in Class section
+    
+### 11. Indexer: mark here, talk about it until in Class section
 
 
 
